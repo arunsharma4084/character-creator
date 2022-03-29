@@ -1,0 +1,8 @@
+.perspectiveBottom {
+    position: fixed;
+    bottom: 0;
+    background: hsl(195deg, 20%, 86%);
+    width: 100%;
+    height: 40%;
+  }
+  
