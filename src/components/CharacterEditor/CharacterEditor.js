@@ -8,6 +8,7 @@ import Character from '../Character';
 import MaxWidthWrapper from '../MaxWidthWrapper';
 import ControlPane from '../ControlPane';
 
+
 import {
   bodyOptions,
   headOptions,
@@ -88,6 +89,7 @@ function App() {
           clothesColor={clothesColor}
         />
       </div>
+      
     </main>
   );
 }
